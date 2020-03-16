@@ -13,6 +13,7 @@ public class Day0303 {
 		}
 		
 		System.out.println(number1);
+//		System.out.println(number2);
 	}
 
 }
