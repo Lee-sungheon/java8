@@ -23,5 +23,4 @@ public class Day0502 {
 		
 		sc.close();
 	}
-
 }
