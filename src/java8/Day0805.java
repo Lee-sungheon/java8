@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Day0805 {
 
 	public static void main(String[] args) {
-		
 		System.out.print("두 정수를 입력해주세요 : ");
 		int a, b, min = 0, max = 0;
 		Scanner sc = new Scanner(System.in);
