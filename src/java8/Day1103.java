@@ -26,6 +26,14 @@ public class Day1103 {
 		for(int i = 0 ; i<45 ; i++)
 			System.out.print(arr[i] + " ");
 
+		
+		//문자열 변환
+		String temp = "ab";
+		char a = 'a', b = 'b';
+		temp = Character.toString(a) + Character.toString(b);
+		System.out.println(temp);
+		
+		
 	}
 
 }
