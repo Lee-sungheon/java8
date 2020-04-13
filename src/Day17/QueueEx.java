@@ -10,6 +10,7 @@ public class QueueEx {
 		q.offer("melon");
 		q.offer("banana");
 		q.offer("apple");
+		q.offer("apple");
 		
 		while(!q.isEmpty()) {
 			System.out.println(q.peek());
